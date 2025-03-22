@@ -10,4 +10,4 @@ HydraStudio2k is a young, growing team of web developers. We work on the backend
 
 ## Social:
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
+![Telegram(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HydraStudio2k)
